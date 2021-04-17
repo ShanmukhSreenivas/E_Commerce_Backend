@@ -1,4 +1,4 @@
-# E-Commerce Demo Backend
+# E-Commerce Backend
 
 Assignment for the course CS 474 – Enterprise Software Architecture.
 
